@@ -10,7 +10,7 @@ Medical image segmentation is a critical task in the field of healthcare and med
 
 The code for this project can be found in the following GitHub repository: [Segtran GitHub Repository](https://github.com/askerlee/segtran/tree/master)
 
-### Citation
+## Citation
 If you use this code or replicate the results, please consider citing the original paper:
 
 ```bash
@@ -21,10 +21,10 @@ booktitle="The 30th International Joint Conference on Artificial Intelligence (I
 year="2021"}
 ```
 
-### Acknowledgments
+## Acknowledgments
 
 We would like to express our gratitude to the authors of the original paper and the contributors to the Segtran GitHub repository for making this research and code accessible.
 
-### License
+## License
 
 This project is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file.
